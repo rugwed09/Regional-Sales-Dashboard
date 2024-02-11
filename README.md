@@ -12,6 +12,17 @@ The Regional Sales Dashboard is a personal project designed to provide comprehen
 - **Time Range Analysis Dashboard:** Offers insights into sales trends over different time frames, aiding in forecasting and planning.
 
 ## Images of the actual Project
+- Home Screen
+![Home Screen](https://github.com/rugwed09/Regional-Sales-Dashboard/assets/51815382/7f1d6846-3d36-4e6d-97de-0ab6110cef5e)
+- Location Analysis
+![Location Analysis](https://github.com/rugwed09/Regional-Sales-Dashboard/assets/51815382/c564b657-247e-44b3-96aa-0b62eb974ec8)
+-Time-Range Analysis
+![Time-Range Analysis](https://github.com/rugwed09/Regional-Sales-Dashboard/assets/51815382/bc23c7b4-50ea-4d98-a3dd-b0fc55e0377a)
+-Transaction Analysis
+![Transaction Analysis](https://github.com/rugwed09/Regional-Sales-Dashboard/assets/51815382/d1801cd7-b687-467c-86dd-44ee5acd54b4)
+
+
+
 
 ## Technologies Used
 - **Power BI:** For creating interactive and visually appealing dashboards.
