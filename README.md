@@ -11,6 +11,8 @@ The Regional Sales Dashboard is a personal project designed to provide comprehen
 - **Store Locations Analysis Dashboard:** Assesses the performance of physical store locations, guiding expansion or optimization strategies.
 - **Time Range Analysis Dashboard:** Offers insights into sales trends over different time frames, aiding in forecasting and planning.
 
+## Images of the actual Project
+
 ## Technologies Used
 - **Power BI:** For creating interactive and visually appealing dashboards.
 - **Python:** Employed for data cleaning, manipulation, and analysis, utilizing libraries such as Pandas and NumPy.
@@ -25,8 +27,5 @@ To get started with this project, follow these steps:
 
 ## Contributing
 Interested in contributing to the Regional Sales Dashboard project? Please read `CONTRIBUTING.md` for guidelines on how to submit issues or pull requests.
-
-## Contact
-For any questions or suggestions, please reach out to me at [rugwedpimpale.com].
 
 Thank you for exploring the Regional Sales Dashboard project!
