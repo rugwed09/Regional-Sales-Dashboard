@@ -27,6 +27,6 @@ To get started with this project, follow these steps:
 Interested in contributing to the Regional Sales Dashboard project? Please read `CONTRIBUTING.md` for guidelines on how to submit issues or pull requests.
 
 ## Contact
-For any questions or suggestions, please reach out to me at [your-email@rugwedpimpale.com].
+For any questions or suggestions, please reach out to me at [rugwedpimpale.com].
 
 Thank you for exploring the Regional Sales Dashboard project!
