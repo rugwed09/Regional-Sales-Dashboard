@@ -13,7 +13,7 @@ The Regional Sales Dashboard is a personal project designed to provide comprehen
 
 ## Images of the actual Project
 - Home Screen  
-![Home Screen](https://github.com/rugwed09/Regional-Sales-Dashboard/assets/51815382/7f1d6846-3d36-4e6d-97de-0ab6110cef5e)
+![Home Screen](https://github.com/rugwed09/Regional-Sales-Dashboard/assets/51815382/7f1d6846-3d36-4e6d-97de-0ab6110cef5e)   
 - Location Analysis
 ![Location Analysis](https://github.com/rugwed09/Regional-Sales-Dashboard/assets/51815382/c564b657-247e-44b3-96aa-0b62eb974ec8)
 -Time-Range Analysis
