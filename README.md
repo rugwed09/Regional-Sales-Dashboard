@@ -23,7 +23,7 @@ The Regional Sales Dashboard is a personal project designed to provide comprehen
 
 
 
-
+    
 ## Technologies Used
 - **Power BI:** For creating interactive and visually appealing dashboards.
 - **Python:** Employed for data cleaning, manipulation, and analysis, utilizing libraries such as Pandas and NumPy.
